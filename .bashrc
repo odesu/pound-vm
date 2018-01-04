@@ -54,17 +54,6 @@ fi
 
 # some more ls aliases
 alias ll='ls -alF'
-alias bu='bundle update'
-alias bi='bundle install'
-alias dbm='rails db:migrate'
-alias dbmr='rails db:migrate:redo'
-alias dbmd='rails db:rollback STEP=1'
-alias are='/etc/init.d/apache2 restart'
-alias astop='/etc/init.d/apache2 stop'
-alias astart='/etc/init.d/apache2 start'
-alias mre='/etc/init.d/mysql restart'
-alias mstop='/etc/init.d/mysql stop'
-alias mstart='/etc/init.d/mysql start'
 
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
